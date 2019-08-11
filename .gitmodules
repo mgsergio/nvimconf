@@ -1,0 +1,63 @@
+[submodule "nerdtree"]
+	path = site/pack/common/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "common/start/nerdtree"]
+	path = site/pack/common/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "common/start/fzf.vim"]
+	path = site/pack/common/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "common/start/vim-fugitive"]
+	path = site/pack/common/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "common/start/vim-surround"]
+	path = site/pack/common/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "common/start/emmet-vim"]
+	path = site/pack/common/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "common/start/vim-easymotion"]
+	path = site/pack/common/start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "common/start/nerdcommenter"]
+	path = site/pack/common/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "common/start/vim-airline"]
+	path = site/pack/common/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "common/start/tagbar"]
+	path = site/pack/common/start/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "common/start/fzf"]
+	path = site/pack/common/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "site/pack/common/start/vim-easymotion"]
+	path = site/pack/common/start/vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "site/pack/common/start/fzf"]
+	path = site/pack/common/start/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "site/pack/common/start/fzf.vim"]
+	path = site/pack/common/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "site/pack/common/start/tagbar"]
+	path = site/pack/common/start/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "site/pack/common/start/emmet-vim"]
+	path = site/pack/common/start/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "site/pack/common/start/nerdcommenter"]
+	path = site/pack/common/start/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "site/pack/common/start/nerdtree"]
+	path = site/pack/common/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "site/pack/common/start/vim-fugitive"]
+	path = site/pack/common/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "site/pack/common/start/vim-surround"]
+	path = site/pack/common/start/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "site/pack/common/start/vim-airline"]
+	path = site/pack/common/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
